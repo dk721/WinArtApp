@@ -1,0 +1,16 @@
+C:\Users\uliart\source\WinArtApp\bin\Debug\net8.0-windows\WinArtApp.exe
+C:\Users\uliart\source\WinArtApp\bin\Debug\net8.0-windows\WinArtApp.deps.json
+C:\Users\uliart\source\WinArtApp\bin\Debug\net8.0-windows\WinArtApp.runtimeconfig.json
+C:\Users\uliart\source\WinArtApp\bin\Debug\net8.0-windows\WinArtApp.dll
+C:\Users\uliart\source\WinArtApp\bin\Debug\net8.0-windows\WinArtApp.pdb
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.csproj.GenerateResource.cache
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.AssemblyInfoInputs.cache
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.AssemblyInfo.cs
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.csproj.CoreCompileInputs.cache
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.dll
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\refint\WinArtApp.dll
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.pdb
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.genruntimeconfig.cache
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\ref\WinArtApp.dll
+C:\Users\uliart\source\WinArtApp\obj\Debug\net8.0-windows\WinArtApp.ShowForm.resources
